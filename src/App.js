@@ -11,7 +11,7 @@ function App() {
           Hi there.
         </p>
         <p>
-          Bye there. change
+          welcome to the feature branch.
         </p>
         <a
           className="App-link"
